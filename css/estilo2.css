@@ -1,0 +1,62 @@
+.cabecera {
+	background-color: midnightblue}
+
+.cabecera-wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	overflow: hidden;
+}
+
+.cabecera-logo {
+	float: left;
+}
+
+.cabecera-menu {
+	float: left;
+}
+
+.cabecera-menu-wrapper {
+	margin: 0;
+}
+
+.cabecera-menu-item {
+	display: inline; block;
+	font-size: 10px;
+}
+.cabecera-menu-item a{
+	float: left;
+	display: block;
+	color: royalblue;
+	text-align: center;
+	padding: 10px 12px;
+	text-decoration: none;
+	font-size: 18px;
+}
+.cabecera-wrapper a:hover{
+	background-color:mediumblue;
+	color: black;
+}
+.cabecera-menu-link {
+	display: inline-block;
+	padding-left: 2px;
+	padding-right: 2px;
+	text-transform: capitalize;
+	line-height: 20px;
+	color: #ffffff;
+	text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+img{
+    width: 40%;
+    height: 40%;
+}
+.cabecera2{
+	font-weight: bold;
+	color: dodgerblue;
+	text-align: center;
+	font-size: 30px;
+}
